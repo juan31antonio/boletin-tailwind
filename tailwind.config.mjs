@@ -10,6 +10,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        personaliced:{
+          suave:"#34d399",
+          oscuro:"#1e40af"
+        }
       },
     },
   },
